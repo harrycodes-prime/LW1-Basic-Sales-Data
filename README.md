@@ -12,9 +12,12 @@ Step 3: Verify Data in Data View
 <img width="1916" height="996" alt="image" src="https://github.com/user-attachments/assets/7cd4d0cf-f229-47cc-8e5a-db0178822377" />
 
 Check:
+
 ○ Are all columns visible?
 Yes, all columns are visible.
+
 ○ Is “Date” formatted as Date?
 Yes, it is formatted as Date.
+
 ○ Is “Sales” formatted as Decimal Number?
 No, sales is not formatted as Decimal Number.
