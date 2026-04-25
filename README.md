@@ -1,3 +1,31 @@
+# Power BI Laboratory Activity
+## Submitted By:
+Harry M. Dajunos
+## Laboratory Title:
+Laboratory Work 1 - Introduction to BI and Power BI
+## PDF Documentation
+
+[Click here to view the PDF](./Dajunos_Harry_LW1.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # LW1-Basic-Sales-Data
 
