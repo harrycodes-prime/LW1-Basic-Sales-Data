@@ -1,7 +1,3 @@
-# Google Drive : https://drive.google.com/drive/folders/1fN7tS2sIhgUT-_6GVkmqnzWroWt5pB6r?usp=sharing
-
-
-
 
 # LW1-Basic-Sales-Data
 
