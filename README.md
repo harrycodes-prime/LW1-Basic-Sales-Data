@@ -27,6 +27,48 @@ Laboratory Work 1 - Introduction to BI and Power BI
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # LW1-Basic-Sales-Data
 
 PART 1: Launching Power BI & Loading Data
